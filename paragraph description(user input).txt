@@ -1,0 +1,12 @@
+ Normal Text:
+ 
+ Definition: Artificial intelligence is a field of science concerned with building computers and machines that can reason, learn, and act in such a way that would normally require human intelligence or that involves data whose scale exceeds what humans can analyze. 
+AI is a broad field that encompasses many different disciplines, including computer science, data analytics and statistics, hardware and software engineering, linguistics, neuroscience, and even philosophy and psychology. 
+On an operational level for business use, AI is a set of technologies that are based primarily on machine learning and deep learning, used for data analytics, predictions and forecasting, object categorization, natural language processing, recommendations, intelligent data retrieval, and more.
+
+pattern Text:
+
+This chapter was adapted from “Lesson 3: Patterns and Context Clues” in How to Learn Like a Pro! by Phyllis Nissila, which is licensed under a CC BY 4.0 Licence. Adapted by Allison Kilgannon. Licensed under a CC BY-NC 4.0 Licence.
+
+numerical text:
+Few examples of numerical patterns are: Even numbers pattern -: 2, 4, 6, 8, 10, 1, 14, 16, 18, … Odd numbers pattern -: 3, 5, 7, 9, 11, 13, 15, 17, 19, …
